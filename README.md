@@ -1,5 +1,7 @@
 # substrate-tutorial
 
+- **[Substrate详解](substrate详解.md)**
+
 - **[substrate环境部署--基于Docker](substrate环境部署.md)**
 
 - **[基于substrate开发cryptokitties](substrate开发cryptokitties.md)**
