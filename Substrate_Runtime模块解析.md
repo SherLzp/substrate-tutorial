@@ -2,9 +2,9 @@
 
 ## Runtime架构
 
-![architecture1](substrate/arc1.png)
+![architecture1](assets/arc1.png)
 
-![architecture2](substrate/arc2.png)
+![architecture2](assets/arc2.png)
 
 ## Substrate Runtime Module Library(SRML)
 
@@ -18,7 +18,7 @@ Substrate Runtime由很多小组件组成来实现关注点的分离。这些组
 
 Substrate源码附带了一组Runtime模块以及一些框架组件来帮助构建执行环境。下图显示了SRML及其支持库的体系结构组件。
 
-![arc3](substrate/arc3.png)
+![arc3](assets/arc3.png)
 
 有四个主要框架组件支持运行时模块:
 
