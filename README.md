@@ -1,5 +1,7 @@
 # substrate-tutorial
 
+- **[Substrate & Polkadot](substrate & polkadot.md)**
+
 - **[Substrate详解](substrate详解.md)**
 - **[Substrate Runtime模块详解](Substrate_Runtime模块解析.md)**
 - **[Substrate Runtime Recipes](Substrate Runtime Recipes.md)**
