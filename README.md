@@ -8,5 +8,4 @@
 - **[substrate环境部署--基于Docker](https://www.sher.vip/article/23)**
 - **[基于substrate开发cryptokitties](https://www.sher.vip/article/28)**
 - **[substrate启动流程解析](substrate_start_flow.png)**
-- **[substrate源码解析](SubstrateAnalyse.xmind)**
 
